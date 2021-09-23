@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmssName": {
+      "value": "vmscaleweb"
+    },
+    "adminUsername": {
+      "value": "adminuser"
+    },
+    "adminPasswordOrKey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDORBcAMc2HaZeIE4G3kZhjlj1PeJzi7FziTS0Vg5HjrWoBMe/I0Orwteke8v69aoLWrQZg0ld6GvQXGkHhiUtqWjCJjpO3PZAAZm/oN7GvHIJFhoKuWy9NLg1zOvBsFLq9EojXOOLbDAPU1uQ+GHjQ334zJAwHMzQM5pMqT6FL/4bwNzyEiTT60dLuwvNOrg8xDwOip9QeBKnFxVLhJpxn+pckgn+VK1HeNQ0WraN1cXJ7n4zWHMksLb08rH853wP+OT/B3VcuN5Vw3VKPoLJ/Aak6+GgRSC4hrqJUZEKceDenNML7GNKqL0rLjw2rxbGhlgEc8HqIUjHxCCbUkiwPzv4TVZjgamwOZfylqKh0VQUcVKYfDZUrHutDgIAqAtS1U6ZFoDZwYQyjebXpIkQnQNg7StRuTZ2Znwr81Lnf8D4+EuAf7gKGbK+fATbQFqhkTvJ7ZiqiopQd6kvCxQaQFzmNbYKyIWWsgIjHUTYQDHTr25uw/lq6fjlC3HX4zVQ7/jAlvHwjwEbc+AysMNPPmLfXimbnJ+AQHgDzEkFjV6q+e5Vb+sKyVe/rdbnLBHG/Twymxn/UOJ+YYETocLAzX/BVWv4e53kGNw74Q17J4w73DcBfLZf2r3VCNwkxtmNBMM72u1K8ZzVPAS2VU9b+KhgLFmB5o4A5I0ocZa9TiQ== GMX+C-NYSK897@DESKTOP-9QU1FAK"
+    }
+  }
+}
